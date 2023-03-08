@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zj0Mu+LVQ0cvA6yM0m6US9PdlBcE3ZLFaJInwIzjew/Fk47zV61t55kt7rfzEm/kb6rXdFPxaRx+z7EpjlLamQ==",
+  "success": true,
+  "projectFilePath": "/Users/dylangrant/Projects/InventoryAPI/InventoryAPI/InventoryAPI.csproj",
+  "expectedPackageFiles": [
+    "/Users/dylangrant/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/dylangrant/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dylangrant/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/dylangrant/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/dylangrant/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/dylangrant/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
